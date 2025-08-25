@@ -11,7 +11,7 @@ package prueba1000;
  */
 public class Prueba1000 {
 
-    /**
+    /**...............
      * @param args the command line arguments
      */
     public static void main(String[] args) {
